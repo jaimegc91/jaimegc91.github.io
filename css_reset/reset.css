@@ -1,20 +1,29 @@
 
 body {
+	font-family: 'Prompt', sans-serif;
 	line-height: 1;
-	background-color: #bbb29b;
-
+  background-color: #d8ddff
 }
 
+.foto{
+	width: 100px;
+ margin: 0 auto;
+}
+
+
 h1{
+	text-align: center;
 	color: #101010;
 	font-size: 50px;
-	font-style: italic; /* Estilo: normal u obliqua */
-	font-weight: 300;
+	font-style: normal; /* Estilo: normal u obliqua */
+	font-weight: 500;
 	background-color: #876464
+
 }
 
 h2{
 	font-size: 30px
+
 }
 
 p{
